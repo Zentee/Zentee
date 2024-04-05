@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zentee aka Filipe Yum~
-- 🌱 I’m currently learning Javascript, React, TypeScript and practicing leet code.
+- 🌱 I’m currently learning TypeScript and practicing leet code, Colt Steele course on Data structs and algos.
 - 📫 How to reach me https://www.linkedin.com/in/filipeyum/
 
 
